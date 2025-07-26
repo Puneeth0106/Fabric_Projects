@@ -7,7 +7,7 @@ This project presents a **smart, scalable data engineering solution** using Micr
 ### 👨‍💻 Project by
 
 **Puneeth Kumar Amudala**
-[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](#https://github.com/Puneeth0106)
+[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](https://github.com/Puneeth0106)
 
 ---
 
