@@ -67,12 +67,12 @@ This project presents a **smart, scalable data engineering solution** using Micr
 
 ### 🌟 Key Innovations
 
-✅ API-powered real-time data ingestion
-✅ Lakehouse-based bronze-silver-gold architecture
-✅ Machine learning integration for NLP
-✅ Power BI dashboard with live data connectors
-✅ Proactive alerting using Microsoft Data Activator
-✅ Fully scheduled and modularized pipeline system
+- ✅ API-powered real-time data ingestion
+- ✅ Lakehouse-based bronze-silver-gold architecture
+- ✅ Machine learning integration for NLP
+- ✅ Power BI dashboard with live data connectors
+- ✅ Proactive alerting using Microsoft Data Activator
+- ✅ Fully scheduled and modularized pipeline system
 
 ---
 
