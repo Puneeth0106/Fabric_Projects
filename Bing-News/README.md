@@ -2,12 +2,8 @@
 
 This project presents a **smart, scalable data engineering solution** using Microsoft Fabric — combining REST API ingestion, Lakehouse architecture, PySpark transformations, machine learning sentiment analysis, and real-time business intelligence through Power BI and Data Activator alerts.
 
----
+![Project-Architecture](images/project_architecture.png)
 
-### 👨‍💻 Project by
-
-**Puneeth Kumar Amudala**
-[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](https://github.com/Puneeth0106)
 
 ---
 
@@ -82,3 +78,16 @@ This project bridges **data engineering** with **AI-driven analytics**, offering
 
 ---
 
+
+### 👨‍💻 Project by
+
+**Puneeth Kumar Amudala**
+[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](https://github.com/Puneeth0106)
+
+
+---
+
+
+### 🙌 Acknowledgment
+
+This project was inspired by hands-on learning from the Microsoft Fabric - Udemy course and created to demonstrate real-world implementation for aspiring Data Engineers.
