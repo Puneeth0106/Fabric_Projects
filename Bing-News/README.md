@@ -2,12 +2,8 @@
 
 This project presents a **smart, scalable data engineering solution** using Microsoft Fabric — combining REST API ingestion, Lakehouse architecture, PySpark transformations, machine learning sentiment analysis, and real-time business intelligence through Power BI and Data Activator alerts.
 
----
+![Project-Architecture](images/project_architecture.png)
 
-### 👨‍💻 Project by
-
-**Puneeth Kumar Amudala**
-[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](https://github.com/Puneeth0106)
 
 ---
 
@@ -58,27 +54,35 @@ This project presents a **smart, scalable data engineering solution** using Micr
 
 ### 📂 Featured Components
 
-* 📘 PySpark Notebook – Structured Cleaning Pipeline
-* 🤖 ML Notebook – Sentiment Classifier
-* 📊 Power BI Report File
-* 🧱 Full Microsoft Fabric Project Repository
+* 📘 PySpark Notebook – [Structured Cleaning Pipeline](Bing-News/data-transformation-using-pyspark.ipynb)
+* 🤖 ML Notebook – [Sentiment Classifier ](Bing-News/news-sentiment-analysis-using-synapse-ML.ipynb)
+* 📊 Power BI Report File - [BI-report](Bing-News/Bing-News-Report.pbix)
 
 ---
 
 ### 🌟 Key Innovations
 
-✅ API-powered real-time data ingestion
-✅ Lakehouse-based bronze-silver-gold architecture
-✅ Machine learning integration for NLP
-✅ Power BI dashboard with live data connectors
-✅ Proactive alerting using Microsoft Data Activator
-✅ Fully scheduled and modularized pipeline system
+- ✅ API-powered real-time data ingestion
+- ✅ Lakehouse-based bronze-silver-gold architecture
+- ✅ Machine learning integration for NLP
+- ✅ Power BI dashboard with live data connectors
+- ✅ Proactive alerting using Microsoft Data Activator
+- ✅ Fully scheduled and modularized pipeline system
 
 ---
 
 ### 📌 Purpose & Impact
 
 This project bridges **data engineering** with **AI-driven analytics**, offering a production-ready framework for tracking public sentiment trends across news media. It's a blueprint for building intelligent monitoring tools using Microsoft Fabric’s unified platform.
+
+---
+
+
+### 👨‍💻 Project by
+
+**Puneeth Kumar Amudala**
+[LinkedIn](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245/) | [GitHub](https://github.com/Puneeth0106)
+
 
 ---
 
