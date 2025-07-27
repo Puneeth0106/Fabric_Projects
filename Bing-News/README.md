@@ -54,10 +54,9 @@ This project presents a **smart, scalable data engineering solution** using Micr
 
 ### 📂 Featured Components
 
-* 📘 PySpark Notebook – Structured Cleaning Pipeline
-* 🤖 ML Notebook – Sentiment Classifier
-* 📊 Power BI Report File
-* 🧱 Full Microsoft Fabric Project Repository
+* 📘 PySpark Notebook – [Structured Cleaning Pipeline](Bing-News/data-transformation-using-pyspark.ipynb)
+* 🤖 ML Notebook – [Sentiment Classifier ](Bing-News/news-sentiment-analysis-using-synapse-ML.ipynb)
+* 📊 Power BI Report File - [BI-report](Bing-News/Bing-News-Report.pbix)
 
 ---
 
@@ -87,7 +86,3 @@ This project bridges **data engineering** with **AI-driven analytics**, offering
 
 ---
 
-
-### 🙌 Acknowledgment
-
-This project was inspired by hands-on learning from the Microsoft Fabric - Udemy course and created to demonstrate real-world implementation for aspiring Data Engineers.
